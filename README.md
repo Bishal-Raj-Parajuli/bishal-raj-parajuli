@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!  
+# 👋 Hello, I'm Bishal Raj Parajuli!  
 
 Welcome to my GitHub!  
 I’m a **Freelance Developer** transitioning from a **Junior Developer** to a **Senior Developer** 🚀. I'm continuously learning, building, and contributing to meaningful projects. If you're looking for a dedicated, growth-oriented developer, let’s connect!
@@ -30,33 +30,20 @@ I’m a **Freelance Developer** transitioning from a **Junior Developer** to a *
 - **Backend**: NestJS, Node.js  
 - **Databases**: PostgreSQL, SQLite  
 - **ORMs**: Drizzle ORM, Prisma  
-- **CMS**: PayloadCMS, Strapi  
-
-### 🏗️ Current Projects  
-1. **[Build My Resume](#)**: A web app to create resumes with AI assistance.  
-2. **Horizontally Scrollable Cards UI**: Dynamic UI for showcasing content interactively.  
-
----
-
-## 📈 My Growth Path  
-Here’s a glimpse into how I’m upgrading my skills:  
-- 🔭 Diving deeper into **Scalable Architecture** and **Microservices**.  
-- ✍️ Writing blogs about **Astro**, **PayloadCMS**, and **AI in Development**.  
-- 🤝 Collaborating on open-source projects to expand my network and knowledge.
+- **CMS**: PayloadCMS  
 
 ---
 
 ## ✨ Fun Facts  
 - 🌏 Based in **Australia** but originally from **Nepal**.  
-- 🛠️ Forklift driver by morning, coder by day!  
 - 🎯 Aiming to build tools that make developers' lives easier.
 
 ---
 
 ## 🤝 Let’s Connect!  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- 📧 Email: [bishal.parajuli1312@gmail.com](mailto:bishal.parajuli1312@gmail.com)  
+- 💼 LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bishal-raj-parajuli-524071266/))  
+- 🌐 Portfolio: [bishalraj.info](https://bishalraj.info)  
 
 Looking forward to **collaborating**, **learning**, and **growing** together!  
 Feel free to explore my repos and reach out if something catches your eye.  
