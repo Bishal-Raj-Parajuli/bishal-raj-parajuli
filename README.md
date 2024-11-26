@@ -42,7 +42,7 @@ I’m a **Freelance Developer** transitioning from a **Junior Developer** to a *
 
 ## 🤝 Let’s Connect!  
 - 📧 Email: [bishal.parajuli1312@gmail.com](mailto:bishal.parajuli1312@gmail.com)  
-- 💼 LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bishal-raj-parajuli-524071266/))  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bishal-raj-parajuli-524071266/)  
 - 🌐 Portfolio: [bishalraj.info](https://bishalraj.info)  
 
 Looking forward to **collaborating**, **learning**, and **growing** together!  
